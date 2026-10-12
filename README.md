@@ -1,7 +1,7 @@
 ###### tags: google forms locked mode bypass, google forms unlocked, google forms unlocker, google forms lockpicker, google forms locked mode without chromebook
 
 # Google Forms Unlocker [1.7]
->### Created by [Mia](https://github.com/xNasuni/)<br>Made with ❤
+>### Created by [Mia](https://github.com/xNasuni/)<br>
 
 > [!IMPORTANT]<br>This repository contains scripts & methods that bypass google forms locked mode with ease, if you have any trouble you can use the discussions section to ask for help.
 
@@ -92,6 +92,3 @@ Now that you have the user script installed, you can go to any google form and i
 > If you can select and click on the **'Inspect'** option and a whole menu appears on the right side of the screen, you can use this method on your Chromebook, however, if you can't open it OR the button is grayed out, you can't run code.
 
 ![picture showing the context menu that appears when you right click to open the context menu for page inspection](https://github.com/user-attachments/assets/3b056b5b-7ea0-4ce5-8b86-8ac03fc49371)
-
-
-:3
